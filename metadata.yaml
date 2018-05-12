@@ -1,0 +1,36 @@
+_repo: Daddy-Do-Funny-s-Wisdom-Jingles_19363
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Clements, G. H. (George Henry)
+    alias: Clements, George Henry
+    birthdate: 1854
+    deathdate: 1935
+    gutenberg_agent_id: '37744'
+    url: http://www.gutenberg.org/2009/agents/37744
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stuart, Ruth McEnery
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '3831'
+    url: http://www.gutenberg.org/2009/agents/3831
+description: ''
+gutenberg_bookshelf: Folklore
+gutenberg_issued: '2006-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Black English -- Southern States'
+- !lcc 'PS'
+- !lcsh 'Dialect poetry, American'
+title: Daddy Do-Funny's Wisdom Jingles
+url: http://www.gutenberg.org/ebooks/19363
